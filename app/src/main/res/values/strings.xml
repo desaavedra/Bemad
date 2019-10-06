@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bemad</string>
+    <string name="texto">Hola Mundo</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipo">Tipo de Negocio</string>
+    <string name="puntaje">Puntaje</string>
 </resources>
